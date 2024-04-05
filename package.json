@@ -1,0 +1,19 @@
+{
+  "name": "reqscope-engine",
+  "version": "1.0.0",
+  "description": "Core engine for heartbeats",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReqScope/reqscope-engine.git"
+  },
+  "author": "jsteffensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReqScope/reqscope-engine/issues"
+  },
+  "homepage": "https://github.com/ReqScope/reqscope-engine#readme"
+}
